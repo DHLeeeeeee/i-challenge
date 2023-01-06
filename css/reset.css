@@ -15,7 +15,6 @@
 body {
   font-family: 'Noto Sans KR', sans-serif;
   line-height: 1;
-  overflow-x: hidden;
 }
 
 ul,
@@ -36,4 +35,8 @@ i {
 
 input:focus {
   outline: none;
+}
+
+.Wrap {
+  overflow: hidden;
 }
